@@ -1,0 +1,8 @@
+Crime Murder Rape Robbery Assault Burglary Larceny AutoTheft
+Murder 1.00 0.52 0.34 0.81 0.28 0.06 0.11
+Rape 0.52 1.00 0.55 0.70 0.68 0.60 0.44
+Robbery 0.34 0.55 1.00 0.56 0.62 0.44 0.62
+Assault 0.81 0.70 0.56 1.00 0.52 0.32 0.33
+Burglary 0.28 0.68 0.62 0.52 1.00 0.80 0.70
+Larceny 0.06 0.60 0.44 0.32 0.80 1.00 0.55
+AutoTheft 0.11 0.44 0.62 0.33 0.70 0.55 1.00
