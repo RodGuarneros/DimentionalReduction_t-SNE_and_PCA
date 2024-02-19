@@ -1,3 +1,5 @@
+Confiaremos en PCA para desenredar la estructura correlacional de estas características y sugerir relaciones que podrían modelarse de manera útil con nuevas características.
+
 # DimentionalReduction_t-SNE_and_PCA
 In this repository, you'll be able to see the main advantages and disadvantages of every dimensional reduction technique. 
 
